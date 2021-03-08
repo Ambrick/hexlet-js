@@ -1,4 +1,5 @@
 {
+"type": "module",
   "name": "Hexlet-project",
   "version": "1.0.0",
   "description": "Мой первый проект на Хекслете",
@@ -14,7 +15,10 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ambrick/hexlet-js/issues",
-	"email" : "alexhulk98@yandex.ru"
+    "email": "alexhulk98@yandex.ru"
   },
-  "homepage": "https://github.com/Ambrick/hexlet-js#readme"
+  "homepage": "https://github.com/Ambrick/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
